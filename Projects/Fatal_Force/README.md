@@ -22,4 +22,4 @@ Modeling and Prediction: Developed models to predict unemployment rates, inflati
 
 In the Population between 1910-2020 section: 
 
-In this section, we delve into historical population data for the United States spanning from 1910 to 2020. We not only analyze the population trends over time but also construct predictive models for key economic indicators such as the unemployment rate, inflation rate, and population growth rate. These models offer insights into past trends and help forecast future patterns using simple and understandable language.
+In this section, I delve into historical population data for the United States from 1910 to 2020. I not only analyze the population trends over time but also construct predictive models for key economic indicators such as the unemployment rate, inflation rate, and population growth rate. 
