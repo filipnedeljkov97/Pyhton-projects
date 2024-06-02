@@ -1,3 +1,5 @@
+Table of contents:
+
 Introduction:
   Install Package with Country Codes,
   Upgrade Plotly,
