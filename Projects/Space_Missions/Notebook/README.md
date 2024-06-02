@@ -45,5 +45,5 @@ Create a Chart that Shows the Total Number of Launches Year-On-Year by the Two S
 
 Chart the Total Number of Mission Failures Year on Year:
   Chart the Percentage of Failures over Time,
-  For Every Year Show which Country was in the Lead in terms of Total Number of Launches up to and including including 2024)
+  For Every Year Show which Country was in the Lead in terms of Total Number of Launches up to and including including 2024
 
